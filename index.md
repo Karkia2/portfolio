@@ -34,7 +34,8 @@ A classification-based project focusing on identifying misleading or false news 
 ### • Customer Segmentation
 A data-driven project identifying customer patterns and behavior using clustering and segmentation methods.
 
-👉 Project folder coming soon.
+👉 [View Project](projects/customer-segmentation/)
+
 
 ---
 
