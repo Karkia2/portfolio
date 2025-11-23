@@ -10,14 +10,16 @@ This portfolio highlights academic, technical, and collaborative projects I’ve
 ### • Amazon Electronics Review Sentiment Analysis (Group Project)
 A collaborative project analyzing customer reviews using text processing techniques and comparing different sentiment classification approaches.
 
-👉 Project folder coming soon.
+👉 [View Project](projects/amazon-sentiment/)
+
 
 ---
 
 ### • Twitter Topic Modeling (Research Work)
 A research project completed under faculty supervision, exploring topic extraction using NMF and LDA, and contributing to a paper accepted to CATA 2025.
 
-👉 Project folder coming soon.
+👉 [View Project](projects/twitter-topic-modeling/)
+
 
 ---
 
