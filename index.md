@@ -40,7 +40,8 @@ A data-driven project identifying customer patterns and behavior using clusterin
 ---
 
 ## 📄 Resume
-(Resume will be added here.)
+👉 [Download My Resume](Anushka_Karki_resume.pdf)
+
 
 ---
 
