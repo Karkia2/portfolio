@@ -26,7 +26,8 @@ A research project completed under faculty supervision, exploring topic extracti
 ### • Fake News Detection
 A classification-based project focusing on identifying misleading or false news articles using text-based features.
 
-👉 Project folder coming soon.
+👉 [View Project](projects/fake-news-detection/)
+
 
 ---
 
