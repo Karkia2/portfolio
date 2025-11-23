@@ -10,19 +10,19 @@ This portfolio highlights academic, technical, and collaborative projects I’ve
 ### • Amazon Electronics Review Sentiment Analysis (Group Project)
 A collaborative project analyzing customer reviews using text processing techniques and comparing different sentiment classification approaches.
 
-👉 [View Project](projects/amazon-roberta-sentiment/)
+👉 Project folder coming soon.
 
 ---
 
 ### • Twitter Topic Modeling (Research Work)
-A research project completed under faculty supervision, exploring topic extraction using NMF and LDA, and contributing to a paper accepted to **CATA 2025**.
+A research project completed under faculty supervision, exploring topic extraction using NMF and LDA, and contributing to a paper accepted to CATA 2025.
 
-👉 [View Project](projects/twitter-topic-modeling/)
+👉 Project folder coming soon.
 
 ---
 
 ### • Fake News Detection
-A text-classification project focusing on identifying false or misleading news articles using feature extraction and model evaluation.
+A classification-based project focusing on identifying misleading or false news articles using text-based features.
 
 👉 Project folder coming soon.
 
